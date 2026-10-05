@@ -1,0 +1,49 @@
+{
+    "total_products": 10,
+    "avg_price_per_category": {
+        "beauty": 13.39,
+        "fragrances": 83.99
+    },
+    "top_rated_products": [
+        {
+            "id": 3,
+            "name": "Powder Canister",
+            "price": 14.99,
+            "category": "beauty",
+            "avg_score": 4.64,
+            "review_count": 5
+        },
+        {
+            "id": 6,
+            "name": "Calvin Klein CK One",
+            "price": 49.99,
+            "category": "fragrances",
+            "avg_score": 4.37,
+            "review_count": 5
+        },
+        {
+            "id": 4,
+            "name": "Red Lipstick",
+            "price": 12.99,
+            "category": "beauty",
+            "avg_score": 4.36,
+            "review_count": 5
+        },
+        {
+            "id": 5,
+            "name": "Red Nail Polish",
+            "price": 8.99,
+            "category": "beauty",
+            "avg_score": 4.32,
+            "review_count": 5
+        },
+        {
+            "id": 7,
+            "name": "Chanel Coco Noir Eau De",
+            "price": 129.99,
+            "category": "fragrances",
+            "avg_score": 4.26,
+            "review_count": 5
+        }
+    ]
+}
